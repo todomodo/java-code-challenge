@@ -7,7 +7,7 @@ Problem 1: Given a standard deck of 52 cards, write a method to sort the cards i
 Problem 2: Given a standard deck of 52 cards, write a method that randomly shuffles the cards.
 
 Constraints:
-  1. You are allowed you to choose what the terms "ascending order" mean, however be prepared to discuss your decision.
+  1. You are allowed to choose what the terms "ascending order" mean, however be prepared to discuss your decision.
   2. Similarly, you have the freedom to choose what random means, but keep in mind that you will need to discuss choices.
   3. Assume that this solution will be used by a variety of additional use cases. For example, any card game that will use a standard deck of 52 cards (four suits of thirteen cards each).
   4. Write automated tests for your work. Be prepared to advocate for your choices.
