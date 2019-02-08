@@ -13,7 +13,10 @@ Constraints:
   4. Write automated tests for your work. Be prepared to advocate for your choices.
   5. Use Java as the programming language.
 
-# How to build (optional, I have included a working JAR for your convenience)
+# Where is the code?
+look under src/net/todorov
+
+# How to build ?
 It was built with IntelliJ IDEA 2018.3.4 on 64bit Ubuntu 18.04. Also:
 
 ```
@@ -24,7 +27,7 @@ Java HotSpot(TM) 64-Bit Server VM (build 25.191-b12, mixed mode)
 
 ```
 
-# How to run
+# How to run ?
 
 Open terminal, change into project directory and execute:
 ```
