@@ -2,9 +2,18 @@
 Someone gave me a Java code challenge, this project is my answer
 
 # Assignment
+Problem 1: Given a standard deck of 52 cards, write a method to sort the cards in ascending order. 
 
+Problem 2: Given a standard deck of 52 cards, write a method that randomly shuffles the cards.
 
-# How to build (optional)
+Constraints:
+  1. You are allowed you to choose what the terms "ascending order" mean, however be prepared to discuss your decision.
+  2. Similarly, you have the freedom to choose what random means, but keep in mind that you will need to discuss choices.
+  3. Assume that this solution will be used by a variety of additional use cases. For example, any card game that will use a standard deck of 52 cards (four suits of thirteen cards each).
+  4. Write automated tests for your work. Be prepared to advocate for your choices.
+  5. Use Java as the programming language.
+
+# How to build (optional, I have included a working JAR for your convenience)
 It was built with IntelliJ IDEA 2018.3.4 on 64bit Ubuntu 18.04. Also:
 
 ```
@@ -17,14 +26,12 @@ Java HotSpot(TM) 64-Bit Server VM (build 25.191-b12, mixed mode)
 
 # How to run
 
-From project directory execute:
+Open terminal, change into project directory and execute:
 ```
 $ java -jar out/artifacts/drago_card_shuffle_jar/drago-card-shuffle.jar
 ```
 
-
-
-# Expected output
+# Example Output
 
 ```
 Default
